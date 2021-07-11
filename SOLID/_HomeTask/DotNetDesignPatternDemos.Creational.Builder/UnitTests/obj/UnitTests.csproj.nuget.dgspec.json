@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\DesignPatterns\\SOLID\\_HomeTask\\DotNetDesignPatternDemos.Creational.Builder\\UnitTests\\UnitTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\DesignPatterns\\SOLID\\_HomeTask\\DotNetDesignPatternDemos.Creational.Builder\\DotNetDesignPatternDemos.Creational.Builder\\DotNetDesignPatternDemos.Creational.Builder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DesignPatterns\\SOLID\\_HomeTask\\DotNetDesignPatternDemos.Creational.Builder\\DotNetDesignPatternDemos.Creational.Builder\\DotNetDesignPatternDemos.Creational.Builder.csproj",
+        "projectName": "DotNetDesignPatternDemos.Creational.Builder",
+        "projectPath": "D:\\Projects\\DesignPatterns\\SOLID\\_HomeTask\\DotNetDesignPatternDemos.Creational.Builder\\DotNetDesignPatternDemos.Creational.Builder\\DotNetDesignPatternDemos.Creational.Builder.csproj",
+        "packagesPath": "C:\\Users\\pkysylev\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\DesignPatterns\\SOLID\\_HomeTask\\DotNetDesignPatternDemos.Creational.Builder\\DotNetDesignPatternDemos.Creational.Builder\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pkysylev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\pkysylev\\.dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\DesignPatterns\\SOLID\\_HomeTask\\DotNetDesignPatternDemos.Creational.Builder\\UnitTests\\UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DesignPatterns\\SOLID\\_HomeTask\\DotNetDesignPatternDemos.Creational.Builder\\UnitTests\\UnitTests.csproj",
+        "projectName": "UnitTests",
+        "projectPath": "D:\\Projects\\DesignPatterns\\SOLID\\_HomeTask\\DotNetDesignPatternDemos.Creational.Builder\\UnitTests\\UnitTests.csproj",
+        "packagesPath": "C:\\Users\\pkysylev\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\DesignPatterns\\SOLID\\_HomeTask\\DotNetDesignPatternDemos.Creational.Builder\\UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pkysylev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projects\\DesignPatterns\\SOLID\\_HomeTask\\DotNetDesignPatternDemos.Creational.Builder\\DotNetDesignPatternDemos.Creational.Builder\\DotNetDesignPatternDemos.Creational.Builder.csproj": {
+                "projectPath": "D:\\Projects\\DesignPatterns\\SOLID\\_HomeTask\\DotNetDesignPatternDemos.Creational.Builder\\DotNetDesignPatternDemos.Creational.Builder\\DotNetDesignPatternDemos.Creational.Builder.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\pkysylev\\.dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
